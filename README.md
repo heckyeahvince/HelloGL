@@ -2,8 +2,6 @@ Hello GL2
 =========
 Hello GL2 is an Android C++ sample that draws a triangle using GLES 2.0 API. (https://github.com/googlesamples/android-ndk/tree/master/hello-gl2)
 
-hellogl2-melvincabatuan created by Classroom for GitHub
-
 It uses JNI to do the rendering in C++ over a
 [GLSurfaceView](http://developer.android.com/reference/android/opengl/GLSurfaceView.html)
 created from a regular Android Java Activity.
@@ -52,34 +50,3 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
-
-# This Assignment 
-
-
-## Accept
-
-To accept the assignment, click the following URL:
-
-https://classroom.github.com/assignment-invitations/c3e5983f53ad95fa96916f86a59550ab
-
-## Sample Solution:
-
-https://github.com/DeLaSalleUniversity-Manila/hellogl2-melvincabatuan
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
-
-## Videocapture:
-
-[![screenshot](gl2_001.png)](https://www.youtube.com/watch?v=2XKPtkjW65w)
-
-"*Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime.*" - Waseem Latif
